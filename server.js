@@ -18,7 +18,7 @@ const db = mysql.createConnection(
     host: 'localhost',
     user: 'root',
     // add your password
-    password: '',
+    password: 'S@sukeuchiha15',
     database: 'employee_db'
   }
 );
@@ -29,7 +29,7 @@ db.connect((err) => {
   });
 
 // Welcome ASCII art
-function startPage() {
+function welcomePage() {
   console.log("Welcome to: ");
   console.log(`
   ███████╗███╗░░░███╗██████╗░██╗░░░░░░█████╗░██╗░░░██╗███████╗███████╗

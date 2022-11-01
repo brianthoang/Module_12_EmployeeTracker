@@ -28,7 +28,7 @@ Installation
 1. Clone the Repo 
     git clone https://github.com/brianthoang/Module_12_EmployeeTracker.git
 2. Please install package by typing the following in your terminal 
-    npm i 
+    "npm i" 
 3. Be sure to run command line and source the database in your mysql shell
 4. Input your mysql password in the server.js at line 21
 
